@@ -46,7 +46,7 @@
                 <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                 <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
                 <?php wp_nav_menu(array(
-                    'theme_location'  => 'top',
+                    'theme_location'  => 'footer',
                     'container'       => null,
                     'menu_class'      => 'nav',
                     'menu_id'         => 'nav'
